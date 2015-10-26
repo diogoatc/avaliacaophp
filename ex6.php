@@ -1,4 +1,6 @@
 
+//Autor: Diogo Lopes
+
 <form action="" method="post" name="envia">
 
    	<label> <h1>Informe a data de nascimento <br/></h1> 
